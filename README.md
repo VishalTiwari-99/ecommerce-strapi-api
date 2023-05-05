@@ -58,4 +58,4 @@ Feel free to check out the [Strapi GitHub repository](https://github.com/strapi/
 
 
 
-This site is live: [https://ecommerce-strapi-api.onrender.com/api]
+This site is live: [https://ecommerce-strapi-api.onrender.com/admin]
